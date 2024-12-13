@@ -84,6 +84,10 @@ We welcome contributions to Vehicle Odyssey! To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Video
+
+Link: https://bootcampspot.instructuremedia.com/lti/launch?custom_arc_launch_type=embed&custom_arc_media_id=de763d5e-5384-4d45-b5a6-b4b80ab8fa63-5265&custom_arc_start_at=0 
+
 ## Contact
 
 Feel free to reach out if you have any questions or feedback!
