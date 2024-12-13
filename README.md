@@ -16,7 +16,7 @@ Vehicle Odyssey is a command-line application built with TypeScript that allows 
 
 ---
 
-### About the Project
+## About the Project
 
 **Vehicle Odyssey** is more than just a command-line application. It's an interactive experience that enables users to:
 - Build cars, motorbikes, and trucks with various specifications.
@@ -37,7 +37,7 @@ This project is a great starting point for anyone looking to learn TypeScript or
 - **Object-oriented architecture:**
   - Learn and practice modular and reusable code design.
 
-### Built With
+## Built With
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
@@ -45,7 +45,7 @@ This project is a great starting point for anyone looking to learn TypeScript or
 
 ---
 
-### Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
